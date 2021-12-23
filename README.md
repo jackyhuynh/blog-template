@@ -1,9 +1,7 @@
-# TEMPLATE for Python Developer using PyCharm
+# TEMPLATE for Blog
 
 ## Introduction
- Simply introduce the project that specically built with PyCharm. 
-I believe the simplier the Readme file, the easier to read
-- This is simply a blog that build with Flask and Jinja.
+- This is simply a blog template that build with Flask and Jinja.
 - User can download the template and post anything that they want.
 
 ## Technology
