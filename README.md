@@ -1,7 +1,7 @@
 # TEMPLATE for Blog
 
 ## Introduction
-- This is simply a blog template that build with Flask and Jinja.
+- This is simply a blog template that build with Flask, RESTful and Jinja.
 - User can download the template and post anything that they want.
 
 ## Technology
