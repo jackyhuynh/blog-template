@@ -1,6 +1,6 @@
 {% extends 'bootstrap/base.html' %}
-# Add import for bootstrap wtf quickform support
 {% import "bootstrap/wtf.html" as wtf %}
+
 {% block content %}
 {% include "header.html" %}
   <!-- Page Header -->
@@ -25,16 +25,17 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-8 col-md-10 mx-auto">
-
-        {{ ckeditor.load()}}
-
+        {{ ckeditor.load() }}
         {{ ckeditor.config(name='body') }}
-
         {{ wtf.quick_form(form, novalidate=True, button_map={"submit": "primary"}) }}
-
       </div>
     </div>
   </div>
 
 {% include "footer.html" %}
 {% endblock %}
+
+
+
+
+
