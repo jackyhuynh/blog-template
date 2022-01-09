@@ -1,7 +1,9 @@
 # TEMPLATE for Blog
 
+## [CHECK IT OUT](https://template-blog.herokuapp.com)
+
 ## Introduction
-- This is simply a blog template that build with Flask, RESTful and Jinja.
+- This is simply a blog template that build with Flask, RESTful, Jinja and Host by Heroku
 - User can download the template and post anything that they want.
 
 ## Technology
